@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil no GitHub. Sou desenvolvedor Front-End com foco tambem e
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## 🚀 Minhas Skills
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonDomingues&layout=compact&theme=dracula)
+
 - **Linguagens:** Python,Java script,PHP,GO.
 - **Ferramentas:** React,Flask,Django,
 
